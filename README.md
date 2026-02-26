@@ -23,7 +23,7 @@ Perfect for:
 <img width="1277" height="989" alt="34343" src="https://github.com/user-attachments/assets/547b23ce-7587-4cfa-a5b7-a7c6d828f9eb" />
 <img width="1282" height="984" alt="edn" src="https://github.com/user-attachments/assets/3abf8c77-7bb1-43be-9e19-8db383e9268f" />
 
-## SEO Description
+## Description
 
 Free offline Invoice Management Software built with Python. Generate professional invoices, export to PDF and CSV, and run as a standalone desktop application without any server or internet connection.
 
