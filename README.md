@@ -108,46 +108,7 @@ dist/
 Now the app can run without Python installed.
 
 ---
-
-## GitHub Actions (Auto Build)
-
-This project includes a GitHub workflow that automatically builds the EXE on every push.
-
-To download the built EXE:
-
-1. Go to **Actions** tab
-2. Open the latest workflow run
-3. Download **Artifacts**
-4. Extract and run the EXE
-
----
-
-## Use Cases
-
-- Small business billing
-- Freelancer invoicing
-- Shop management
-- Offline accounting
-- Desktop invoice generator
-
----
-
-## SEO Keywords
-
-invoice management system python  
-invoice generator python  
-offline billing software  
-desktop invoice application  
-pdf invoice generator python  
-pyinstaller desktop app  
-small business billing system  
-
----
-
  
-
----
-
 ## Author
 
 Faizan Ahmad  
